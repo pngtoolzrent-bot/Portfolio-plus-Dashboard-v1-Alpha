@@ -8,7 +8,7 @@ A personal portfolio website for Anthony Kuiau (Graphic Designer & Radio Present
 
 ```
 anthony-portfolio/
-├── site/                    # Portfolio website (deploy this folder)
+├── site/                    # Portfolio website (deploy this folder) 
 │   ├── index.html           # Main HTML skeleton
 │   ├── css/
 │   │   └── style.css        # All styles + CSS variables for theming
