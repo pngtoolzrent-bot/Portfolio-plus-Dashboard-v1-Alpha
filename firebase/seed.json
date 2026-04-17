@@ -1,0 +1,129 @@
+{
+  "site": {
+    "meta": {
+      "title": "Anthony Kuiau — Graphic Designer & Radio Presenter",
+      "description": "Anthony Kuiau is a Graphic Designer and Radio Presenter based in Port Moresby, Papua New Guinea."
+    },
+    "theme": {
+      "ink":    "#111010",
+      "paper":  "#F5F2ED",
+      "warm":   "#EDE9E1",
+      "accent": "#C8441B",
+      "muted":  "#8A8578",
+      "line":   "#D9D5CC",
+      "fontDisplay": "Playfair Display",
+      "fontBody":    "DM Sans"
+    },
+    "hero": {
+      "tag":      "Graphic Designer & Radio Presenter",
+      "nameHtml": "Anthony<br/><em>Kuiau</em>",
+      "sub":      "Port Moresby, Papua New Guinea",
+      "ctaPrimary":   { "label": "View Work",    "href": "#portfolio" },
+      "ctaSecondary": { "label": "Download CV",  "href": "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID" }
+    },
+    "about": {
+      "eyebrow": "About me",
+      "heading": "Crafting stories through design & sound.",
+      "paragraphs": [
+        "I'm Anthony Kuiau, a Graphic Designer and Radio Presenter based in Port Moresby, Papua New Guinea. I blend visual storytelling with broadcast media to create memorable brand experiences.",
+        "With hands-on experience across Adobe Creative Suite and live radio production, I help brands communicate clearly and compellingly — whether on air or on screen."
+      ],
+      "stats": [
+        { "value": "4+",  "label": "Years designing" },
+        { "value": "2",   "label": "Radio stations" },
+        { "value": "PNG", "label": "Based in" }
+      ]
+    },
+    "portfolio": {
+      "eyebrow": "Selected Work",
+      "heading":  "Projects &\nPortfolio",
+      "items": [
+        {
+          "id": "proj_1",
+          "title": "Brand Identity System",
+          "category": "branding",
+          "description": "Full brand identity including logo, colour palette, and guidelines.",
+          "media": { "type": "image", "url": "" },
+          "visible": true,
+          "order": 1
+        },
+        {
+          "id": "proj_2",
+          "title": "FM100 Social Campaign",
+          "category": "social",
+          "description": "Digital and promotional materials for FM100 audience engagement.",
+          "media": { "type": "image", "url": "" },
+          "visible": true,
+          "order": 2
+        },
+        {
+          "id": "proj_3",
+          "title": "Logo & Mark",
+          "category": "branding",
+          "description": "Logo design and brand mark for a local PNG client.",
+          "media": { "type": "image", "url": "" },
+          "visible": true,
+          "order": 3
+        },
+        {
+          "id": "proj_4",
+          "title": "Packaging Design",
+          "category": "branding",
+          "description": "Product packaging design for a PNG brand.",
+          "media": { "type": "image", "url": "" },
+          "visible": true,
+          "order": 4
+        }
+      ]
+    },
+    "experience": {
+      "eyebrow": "Resume",
+      "heading":  "Work History &\nWhat I Know",
+      "timeline": [
+        {
+          "id": "exp_1",
+          "period": "Sep 2025 – Mar 2026",
+          "title":  "Programs Officer — Radio Presenter",
+          "place":  "Kalang Advertising (FM100 & HOT97FM)",
+          "desc":   "Worked across FM100 & HOT97FM delivering live radio content while creating digital and promotional materials to support audience engagement and brand growth across broadcast and social media platforms.",
+          "order": 1
+        },
+        {
+          "id": "exp_2",
+          "period": "2022 – 2024",
+          "title":  "Graphic Designer",
+          "place":  "Freelance, PNG",
+          "desc":   "Designed logos and branding materials for local PNG clients, gaining hands-on experience across Adobe Illustrator and Photoshop on diverse branding and print projects.",
+          "order": 2
+        }
+      ],
+      "skills": [
+        {
+          "group": "Design Tools",
+          "tags": ["Adobe Illustrator","Adobe Photoshop","Adobe InDesign","Adobe Premiere Pro","Figma","Canva"]
+        },
+        {
+          "group": "Creative Skills",
+          "tags": ["Branding","Typography","Copywriting","Logo Design","Print Design"]
+        },
+        {
+          "group": "Digital & Media",
+          "tags": ["Social Media Management","Meta Business Suite","Website Management","Radio Broadcasting"]
+        }
+      ]
+    },
+    "contact": {
+      "eyebrow": "Get in touch",
+      "heading":  "Let's work\ntogether.",
+      "body":     "Have a project in mind? I'd love to hear about it.",
+      "email":    "anthonykuiau22@gmail.com",
+      "cvUrl":    "https://drive.google.com/uc?export=download&id=YOUR_GOOGLE_DRIVE_FILE_ID",
+      "socials": [
+        { "label": "LinkedIn",  "url": "https://www.linkedin.com/in/anthonykuiau" },
+        { "label": "Behance",   "url": "https://www.behance.net/anthonykuiau" },
+        { "label": "Instagram", "url": "https://www.instagram.com/anthonykuiau" },
+        { "label": "Dribbble",  "url": "https://dribbble.com/anthonykuiau" }
+      ]
+    }
+  }
+}

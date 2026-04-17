@@ -1,0 +1,15 @@
+# Credentials — NEVER commit these
+.env
+firebase/serviceAccountKey.json
+site/js/config.js
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
